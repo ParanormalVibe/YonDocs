@@ -19,3 +19,6 @@ Check out the [Getting Started]() page!
 
 ## How can I contribute? 
 First off: thanks for considering contributing! You can find information on how to contribute on the [Contribution Guidelines]() page!
+
+## Test Section
+This section was added as a test.
