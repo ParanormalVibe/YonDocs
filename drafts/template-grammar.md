@@ -2,13 +2,12 @@
 title: Release Name Templates
 description: How to create release name templates with Yon
 published: true
-date: 2021-02-10T03:17:22.588Z
+date: 2021-02-18T02:14:27.225Z
 tags: 
 editor: undefined
-dateCreated: 2021-02-10T03:17:20.065Z
+dateCreated: 2021-02-17T23:32:21.589Z
 ---
 
-# Release Name Templates
 To get the most out of Yon, it's important to understand how you can use release names to improve the usability of your repositories. 
 Yon categorizes and sorts your releases based on their names.
 
