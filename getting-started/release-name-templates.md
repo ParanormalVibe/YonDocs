@@ -6,7 +6,7 @@ We use release name templates to create a version tree by extracting information
 ## Syntax
 Consider the following example in which the release name template is for a video game that uses semantic versioning. A release name template for such a game might look like this: `Video Game v{Major Version}.{Minor Version}.zip`. 
 
-Release name templates consist of characters enclosed within curly brackets to indicate parts of the release name that can differ between releases, and characters outside of curly brackets indicate parts of the release name that will always stay the same. Release name templates must have at least one set of curly braces to be considered valid.
+Release name templates consist of characters enclosed within curly brackets to indicate parts of the release name that can differ between releases, and characters outside of curly brackets indicate parts of the release name that will always stay the same. Release name templates must have at least one set of curly braces to be considered valid.`
 
 ## See Also
 - [Implementation]()
