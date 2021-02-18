@@ -2,9 +2,9 @@
 title: Release Name Templates
 description: How to create release name templates with Yon
 published: true
-date: 2021-02-18T02:14:25.094Z
+date: 2021-02-18T02:14:27.225Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2021-02-17T23:32:21.589Z
 ---
 

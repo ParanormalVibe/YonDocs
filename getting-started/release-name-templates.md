@@ -2,9 +2,9 @@
 title: release-name-templates
 description: 
 published: true
-date: 2021-02-18T02:09:07.468Z
+date: 2021-02-18T02:09:09.611Z
 tags: 
-editor: markdown
+editor: undefined
 dateCreated: 2021-02-17T23:32:24.348Z
 ---
 
